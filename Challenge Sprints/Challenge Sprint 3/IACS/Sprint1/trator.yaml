@@ -1,0 +1,10 @@
+train: /content/drive/MyDrive/IACS/Sprint1/images/train/ 
+val: /content/drive/MyDrive/IACS/Sprint1/images/val/  
+
+names: # Defina aqui suas labels
+  0: 'Coifa'
+  1: 'Correia'
+  2: 'Farol'
+  3: 'Suporte'
+  4: 'Trambulador'
+  # ...
